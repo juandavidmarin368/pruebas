@@ -1,4 +1,4 @@
-# vue-vuetify
+# vue-registros
 
 ## Project setup
 ```
